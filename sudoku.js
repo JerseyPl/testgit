@@ -12,6 +12,8 @@ function solve(boardString) {
  */
 function isSolved(board) {
   console.table(dadta)
+let a= 1
+console.log(a)
 }
 
 /**
@@ -21,6 +23,7 @@ function isSolved(board) {
  */
 function prettyBoard(board) {
 console.table(dadta)
+console.log(a)
 }
 
 // Экспортировать функции для использования в другом файле (например, readAndSolve.js).
