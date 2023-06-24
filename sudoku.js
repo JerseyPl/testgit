@@ -16,11 +16,14 @@ function isSolved(board) {
 
 /**
  * Принимает игровое поле в том формате, в котором его вернули из функции solve.
- * Возвращает строку с игровым полем для последующего вывода в консоль.
+ * Возвращает строку с git игровым полем для последующего вывода в консоль.
  * Подумай, как симпатичнее сформировать эту строку.
  */
 function prettyBoard(board) {
-console.table(dadta)
+console.table(dadta) 
+fire in the hole 
+3000$ bucks 
+hello world and thanks for the fish
 }
 
 // Экспортировать функции для использования в другом файле (например, readAndSolve.js).
