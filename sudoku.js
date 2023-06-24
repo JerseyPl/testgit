@@ -11,7 +11,7 @@ function solve(boardString) {
  * Возвращает булевое значение — решено это игровое поле или нет.
  */
 function isSolved(board) {
-
+  console.table(dadta)
 }
 
 /**
@@ -20,7 +20,7 @@ function isSolved(board) {
  * Подумай, как симпатичнее сформировать эту строку.
  */
 function prettyBoard(board) {
-
+console.table(dadta)
 }
 
 // Экспортировать функции для использования в другом файле (например, readAndSolve.js).
